@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Popular Movies Stage 1</string>
+    <string name="error_text">Check Your Internet Connection And Try Again.</string>
+    <string name="detail_error_text">Something went wrong. Please return back to the previous screen and try again.</string>
+    <string name="average_rating">Average rating: </string>
+    <string name="release_date">Release date: </string>
+</resources>
